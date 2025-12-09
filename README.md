@@ -5,7 +5,10 @@ Este repositorio contiene un formulario digital para recopilar información de c
 ## 🌐 Ver en GitHub Pages
 
 Una vez que se habilite GitHub Pages en la configuración del repositorio, el sitio estará disponible en:
-`https://https-cheffrankosalgado-com.github.io/vigilant-octo-chainsaw/`
+
+**URL:** `https://https-cheffrankosalgado-com.github.io/vigilant-octo-chainsaw/`
+
+_(Nota: El nombre de usuario del repositorio incluye "https-" como prefijo)_
 
 ## 📋 Características
 
